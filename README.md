@@ -28,3 +28,19 @@ Cada sección del log incluye:
 
    ```bash
    chmod +x mantenimiento_kali.sh
+
+   
+  Ejecuta el Script: ./mantenimiento_kali.sh
+
+Revisa el log generado: cat log_mantenimiento_YYYY-MM-DD.log
+
+
+¿Cómo instalamos WSL?
+
+A través de PowerShell con wsl--install
+
+Escogimos ubuntu ya que es la más común
+
+¿por qué usar WSL? Porque permite simular entornos Linux sin usar máquinas virtuales pesadas; integración sencilla con Windows; ideal para desarrollo y pruebas.
+
+
