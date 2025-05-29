@@ -21,7 +21,7 @@ ls -l /home/usuario1/pruebas
 
 -rwxrwxrwx 1 root root 0 may 28 10:30 archivo.txt
 
-Se corrigieron los permisos y la propiedad del archivo:
+Corrigimos los permisos y la propiedad del archivo:
 sudo chmod 640 /home/usuario1/pruebas/archivo.txt
 sudo chown usuario1:usuario1 /home/usuario1/pruebas/archivo.txt
 
