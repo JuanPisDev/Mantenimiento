@@ -12,5 +12,7 @@ WSL no usa systemd por defecto, por se uso pgrep como alternativa.
 
 Ejemplos:
 systemctl status apache2
+
 systemctl start ssh
+
 systemctl enable mysql
